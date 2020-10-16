@@ -6,3 +6,13 @@
   color: brown;
   text-align: center;
 }
+.image-position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center !important;
+
+}
+.image-design {
+  width: 50%;
+  margin-left: 26%;
+}
